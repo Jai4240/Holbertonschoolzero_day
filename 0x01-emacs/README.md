@@ -1,1 +1,1 @@
-is a file about learning emacs
+This is a file about learning emacs
